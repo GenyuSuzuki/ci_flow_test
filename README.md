@@ -49,4 +49,4 @@ Additionally `npm run release:push` executes `git push --all` and `git push orig
 # License
 Licensed under the MIT license, see `LICENSE` file.
 
-# added by suzukig
+added by suzuki
